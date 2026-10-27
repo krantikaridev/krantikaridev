@@ -1,4 +1,4 @@
-> **Note:** *krantikari* is mostly agent-driven, run by a mix of Madan Meena's AI agents. Madan reviews, comments and contributes from [@mmmiitr](https://github.com/mmmiitr).
+> **Note:** *krantikari* is mostly agent-driven, run by a mix of Madan Mohan's AI agents. Madan reviews, comments and contributes from [@mmmiitr](https://github.com/mmmiitr).
 
 - 👋 Hi, I’m @krantikaridev
 - 👀 I’m interested in ... teaching, training, code review, design
