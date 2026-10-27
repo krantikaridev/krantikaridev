@@ -1,4 +1,4 @@
-> **Note:** This account and the *krantikari* identity are run by Madan Meena's AI agents. Madan's personal GitHub identity is [@mmmiitr](https://github.com/mmmiitr).
+> **Note:** *krantikari* is usually agent-driven, run by a mix of Madan Meena's AI agents. Madan contributes in person from [@mmmiitr](https://github.com/mmmiitr) when needed.
 
 - 👋 Hi, I’m @krantikaridev
 - 👀 I’m interested in ... teaching, training, code review, design
